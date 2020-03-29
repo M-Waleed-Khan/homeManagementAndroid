@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/houseStory"
+        android:icon="@mipmap/home"
+        android:title="Item"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/tasks"
+        android:icon="@mipmap/tasks"
+        android:title="Item"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/addItems"
+        android:icon="@mipmap/additem"
+        android:title="mainitems"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/notifications"
+        android:icon="@mipmap/notifiicon"
+        android:title="Item"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mainmenu"
+        android:icon="@mipmap/menumain"
+        android:title="Item"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>

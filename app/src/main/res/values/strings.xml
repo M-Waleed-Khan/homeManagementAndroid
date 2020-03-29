@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeManagement</string>
+    <string name="backimg">BackImg</string>
+    <string name="iconback">BackIcon</string>
+    <string name="mainicon">MainIcon</string>
+    <string name="iconText">My House</string>
+    <string name="notifi">notifications</string>
+    <string name="iconTxt" translatable="false">My House</string>
+    <string-array name="spinnerArray">
+        <item>Electrician</item>
+        <item>Plumber</item>
+        <item>Mechanic</item>
+        <item>BabySitter</item>
+        <item>Gardner</item>
+        <item>Grocery</item>
+    </string-array>
+</resources>
